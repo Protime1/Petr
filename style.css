@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background-color: #2E8B57;
+}
+
+h1{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    border-bottom:2px solid white; 
+
+}
+
+.link-header{
+    color: rgb(44, 202, 210);
+
+}
+
+li{
+    color:rgb(255, 255, 255);
+}
